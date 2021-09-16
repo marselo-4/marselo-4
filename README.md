@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @marselo-4
-- Marselo Shop CEO -- https://discord.gg/aUZ3rttjVR
-- FiveM Developer
-- Lua, HTML, JS, CSS
-- marselo.exe#0001
+- 🚀 MarseloShop Owner -- https://discord.gg/aUZ3rttjVR 
+- 🐌 I'm currently coding stuff for FiveM 
+- 💣 Searching new projects
+- 📈 Always learning
+- 👀 marselo.exe#0001
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marselo-4&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marselo-4&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=marselo-4&theme=radical)

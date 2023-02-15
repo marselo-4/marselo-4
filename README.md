@@ -1,9 +1,10 @@
 ## Hi! 👋
 - 🚀 MarseloShop Owner -- https://discord.gg/aUZ3rttjVR 
+- 📕 CFGM Sistemas Microinformáticos y Redes
 - 🐌 I'm currently coding stuff for FiveM 
 - 💣 Searching new projects
 - 📈 Always learning
-- 👀 marselo.exe#0001
+- 👀 marselo.exe#8884
 
 ![](https://komarev.com/ghpvc/?username=marselo-4&theme=radical)
 

@@ -1,7 +1,5 @@
 ## Hi! 👋
-- 🚀 MarseloShop -- https://discord.gg/aUZ3rttjVR 
 - 📕 CFGM Sistemas Microinformáticos y Redes
-- 🐌 I'm currently coding stuff for FiveM 
 - 💣 Searching new projects
 - 📈 Always learning
 - 👀 marselo.exe#8884

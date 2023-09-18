@@ -1,5 +1,5 @@
 ## Hi! 👋
-- 📕 CFGM Sistemas Microinformáticos y Redes
+- 📕 CFGS Desarrollo de Aplicaciones Multiplataforma
 - 💣 Searching new projects
 - 📈 Always learning
 - 👀 marselo.exe#8884

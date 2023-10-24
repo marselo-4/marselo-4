@@ -2,7 +2,8 @@
 - 📕 CFGS Desarrollo de Aplicaciones Multiplataforma
 - 💣 Searching new projects
 - 📈 Always learning
-- 👀 marselo.exe#8884
+- 📣 <a href="https://www.linkedin.com/in/carlosmartinezguixa/">Linkedin</a>
+- 🛠 <a href="https://marselo-4.github.io/ms-portfolio/">Portfolio</a>
 
 ![](https://komarev.com/ghpvc/?username=marselo-4&theme=radical)
 
